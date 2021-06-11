@@ -1,0 +1,19 @@
+.addContact {
+  width: 100%;
+  background: #282c34;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+
+}
+.addContact .btn-dark {
+  display: block;
+  margin: 5px auto ;
+
+}
+.addContact input {
+  margin: 5px auto ;
+}

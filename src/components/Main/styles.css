@@ -1,0 +1,9 @@
+.main-container {
+  width: 1100px;
+  margin: 0 auto;
+  height: 80vh;
+}
+.delete {
+  color: red;
+  cursor: pointer;
+}

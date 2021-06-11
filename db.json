@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "lastname": "Dorian",
+      "age": 27,
+      "pager": 926545
+    },
+    {
+      "id": 2,
+      "name": "Carla",
+      "lastname": "Espinosa",
+      "age": 28,
+      "pager": 945455
+    },
+    {
+      "id": 3,
+      "name": "Perry",
+      "lastname": "Cox",
+      "age": 40,
+      "pager": 955654
+    },
+    {
+      "id": 4,
+      "name": "Robert",
+      "lastname": "Celso",
+      "age": 58,
+      "pager": 128215
+    }
+  ]
+}

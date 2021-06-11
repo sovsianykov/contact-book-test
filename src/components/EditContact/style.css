@@ -1,0 +1,19 @@
+.editContact {
+  width: 100%;
+  background: #707276;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+
+}
+.editContact .btn-dark {
+  display: block;
+  margin: 5px auto ;
+
+}
+.editContact input {
+  margin: 5px auto ;
+}
