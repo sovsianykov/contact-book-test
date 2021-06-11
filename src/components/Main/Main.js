@@ -6,7 +6,7 @@ import "./styles.css";
 import { Button } from "react-bootstrap";
 import { Grid } from "@material-ui/core";
 import AddContact from "../AddContact/AddContact";
-import EditConact from "../EditContact/EditConact";
+import EditContact from "../EditContact/EditContact";
 
 const Main = () => {
   const dispatch = useDispatch();
@@ -25,7 +25,7 @@ const Main = () => {
         </Grid>
         <Grid item xs={12} md={4}>
           <AddContact id={people.length + 1} />
-          <EditConact />
+          <EditContact />
         </Grid>
       </Grid>
     </div>
