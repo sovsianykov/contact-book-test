@@ -1,8 +1,8 @@
 import React, {useCallback} from 'react';
 import {Button} from "react-bootstrap";
 import {GridCloseIcon} from "@material-ui/data-grid";
-import {useDispatch} from "react-redux";
-import {delContact, editingId} from "../redux/actions";
+import { useDispatch } from "react-redux";
+import { delContact, editingId } from "../redux/actions";
 
 const TableRow = ({row}) => {
     const dispatch = useDispatch()

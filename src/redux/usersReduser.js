@@ -7,7 +7,7 @@ import {
 } from "./types";
 
 const initialState = {
-  users: [],
+  users: [{ id: -1 , name: "", lastname: "", age: "", pager: "" }],
   editing: { id: 0, name: "", lastname: "", age: "", pager: "" },
 };
 
